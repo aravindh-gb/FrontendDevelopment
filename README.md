@@ -45,3 +45,14 @@ Topics Covered:
 - Background Color
 - Padding
 
+CSS Box Model
+
+Topics Covered:
+- Width
+- Height
+- Padding
+- Border
+- Margin
+- Background Color
+- Box Layout
+
