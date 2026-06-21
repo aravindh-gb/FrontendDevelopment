@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: navy;
+}
+
+.highlight {
+    color: green;
+    font-weight: bold;
+}
+
+#special {
+    color: red;
+}
+
+div p {
+    background-color: lightgray;
+    padding: 10px;
+}
