@@ -34,3 +34,14 @@ Topics Covered:
 - Unordered Lists
 - Ordered Lists
 
+CSS Selectors & Styling
+
+Topics Covered:
+- Element Selector
+- Class Selector
+- ID Selector
+- Descendant Selector
+- Text Styling
+- Background Color
+- Padding
+
