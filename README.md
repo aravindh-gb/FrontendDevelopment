@@ -87,3 +87,23 @@ Topics Covered:
 - Flexbox Responsiveness
 - Viewport Meta Tag
 - Screen Size Adaptation
+
+Bootstrap Basics
+
+Topics Covered:
+- Bootstrap CDN
+- Bootstrap Grid System
+- Bootstrap Container
+- Bootstrap Cards
+- Bootstrap Buttons
+- Responsive Layout
+
+Mini Portfolio Website
+
+Topics Covered:
+- HTML5 Structure
+- CSS Styling
+- Navigation Bar
+- Portfolio Sections
+- Project Cards
+- Responsive Layout
