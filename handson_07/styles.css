@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: navy;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.item {
+    background-color: lightcoral;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid black;
+}
