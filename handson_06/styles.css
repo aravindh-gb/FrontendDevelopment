@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: navy;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.box {
+    background-color: lightgreen;
+    padding: 30px;
+    border: 2px solid black;
+}
