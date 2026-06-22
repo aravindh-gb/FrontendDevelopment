@@ -56,3 +56,34 @@ Topics Covered:
 - Background Color
 - Box Layout
 
+22 June 2026
+
+CSS Flexbox Layout
+
+Topics Covered:
+- display:flex
+- Flex Container
+- Flex Items
+- Gap Property
+- Horizontal Alignment
+- Responsive Layout Basics
+
+CSS Grid Layout
+
+Topics Covered:
+- display:grid
+- Grid Container
+- Grid Items
+- grid-template-columns
+- repeat()
+- Gap Property
+- Two-Dimensional Layout
+
+Responsive Design with Media Queries
+
+Topics Covered:
+- Media Queries
+- Mobile Responsive Design
+- Flexbox Responsiveness
+- Viewport Meta Tag
+- Screen Size Adaptation
