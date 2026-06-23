@@ -107,3 +107,13 @@ Topics Covered:
 - Portfolio Sections
 - Project Cards
 - Responsive Layout
+
+23 june 2026
+
+JavaScript Variables
+
+JavaScript Functions
+
+DOM Manipulation
+
+JavaScript Events
