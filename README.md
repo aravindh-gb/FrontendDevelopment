@@ -117,3 +117,9 @@ JavaScript Functions
 DOM Manipulation
 
 JavaScript Events
+
+24 June 2026
+
+Calculator Project
+
+To Do List App
