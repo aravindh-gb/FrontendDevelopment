@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    font-family:Arial,sans-serif;
+    background-color:#f4f4f4;
+}
+
+.clock-container{
+    text-align:center;
+}
+
+#clock{
+    font-size:48px;
+    font-weight:bold;
+    padding:20px;
+    border:2px solid black;
+    background:white;
+}
