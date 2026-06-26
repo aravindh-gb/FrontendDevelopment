@@ -123,3 +123,12 @@ JavaScript Events
 Calculator Project
 
 To Do List App
+
+Digital Clock
+
+Topics Covered:
+- JavaScript Date Object
+- setInterval()
+- DOM Manipulation
+- Real-Time Updates
+- String Formatting
